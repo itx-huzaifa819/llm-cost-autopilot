@@ -1,0 +1,45 @@
+version: "3.9"
+
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      - DATABASE_PATH=/app/data/requests.db
+      - ROUTING_CONFIG_PATH=/app/app/routing/routing_config.yaml
+      - OLLAMA_BASE_URL=http://ollama:11434
+    volumes:
+      - ./data:/app/data
+      - ./app/routing/routing_config.yaml:/app/app/routing/routing_config.yaml
+      - ./app/classifier/model.joblib:/app/app/classifier/model.joblib
+    depends_on:
+      - ollama
+
+  dashboard:
+    build: .
+    command: streamlit run dashboard/streamlit_app.py --server.address 0.0.0.0 --server.port 8501
+    ports:
+      - "8501:8501"
+    environment:
+      - DATABASE_PATH=/app/data/requests.db
+    volumes:
+      - ./data:/app/data
+      - ./dashboard:/app/dashboard
+    depends_on:
+      - api
+
+  # Local model for tier-1 (cheapest/free) routing. Optional - remove this
+  # service and the "1: llama3-local" mapping if you'd rather route tier 1
+  # to a cheap hosted model instead.
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+
+volumes:
+  ollama_data:
