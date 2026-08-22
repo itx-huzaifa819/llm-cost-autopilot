@@ -1,0 +1,20 @@
+# Maps each complexity tier to the model that should handle it.
+# Edit this file (or PUT /v1/routing-config) to change routing behavior
+# without redeploying the service.
+#
+# tier 1 = simple (reformatting, extraction, basic Q&A)
+# tier 2 = moderate (summarization, classification, structured analysis)
+# tier 3 = complex (multi-step reasoning, comparison, creative, judgment)
+
+routing_map:
+  1: llama3-local
+  2: gpt-4o-mini
+  3: gpt-4o
+
+# Model used by the verifier to check whether a cheap model's answer was
+# good enough (Phase 3). Should be your highest-quality model.
+verifier_reference_model: gpt-4o
+
+# If the verifier's quality score falls below this, auto-escalate and
+# re-run the request on verifier_reference_model.
+escalation_quality_threshold: 0.6

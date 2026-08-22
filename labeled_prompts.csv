@@ -1,0 +1,271 @@
+prompt,tier,has_context
+Extract the total dollar amount from the Q3 sales report.,1,1
+Extract the total dollar amount from the attached invoice.,1,1
+Extract the total dollar amount from this support ticket.,1,1
+Extract the total dollar amount from this product spec.,1,1
+Extract the total dollar amount from this resume.,1,1
+Extract the total dollar amount from this survey data.,1,1
+Extract the total dollar amount from our pricing page.,1,1
+What is the date mentioned in the Q3 sales report?,1,1
+What is the date mentioned in the attached invoice?,1,1
+What is the date mentioned in this support ticket?,1,1
+What is the date mentioned in this product spec?,1,1
+What is the date mentioned in this resume?,1,1
+What is the date mentioned in this survey data?,1,1
+What is the date mentioned in our pricing page?,1,1
+Convert the Q3 sales report into a bulleted list.,1,1
+Convert the attached invoice into a bulleted list.,1,1
+Convert this support ticket into a bulleted list.,1,1
+Convert this product spec into a bulleted list.,1,1
+Convert this resume into a bulleted list.,1,1
+Convert this survey data into a bulleted list.,1,1
+Convert our pricing page into a bulleted list.,1,1
+Reformat the Q3 sales report as JSON with keys 'title' and 'body'.,1,1
+Reformat the attached invoice as JSON with keys 'title' and 'body'.,1,1
+Reformat this support ticket as JSON with keys 'title' and 'body'.,1,1
+Reformat this product spec as JSON with keys 'title' and 'body'.,1,1
+Reformat this resume as JSON with keys 'title' and 'body'.,1,1
+Reformat this survey data as JSON with keys 'title' and 'body'.,1,1
+Reformat our pricing page as JSON with keys 'title' and 'body'.,1,1
+What is the sender's email address in the Q3 sales report?,1,1
+What is the sender's email address in the attached invoice?,1,1
+What is the sender's email address in this support ticket?,1,1
+What is the sender's email address in this product spec?,1,1
+What is the sender's email address in this resume?,1,1
+What is the sender's email address in this survey data?,1,1
+What is the sender's email address in our pricing page?,1,1
+Capitalize the first letter of every sentence in the Q3 sales report.,1,1
+Capitalize the first letter of every sentence in the attached invoice.,1,1
+Capitalize the first letter of every sentence in this support ticket.,1,1
+Capitalize the first letter of every sentence in this product spec.,1,1
+Capitalize the first letter of every sentence in this resume.,1,1
+Capitalize the first letter of every sentence in this survey data.,1,1
+Capitalize the first letter of every sentence in our pricing page.,1,1
+Extract all names mentioned in the Q3 sales report.,1,1
+Extract all names mentioned in the attached invoice.,1,1
+Extract all names mentioned in this support ticket.,1,1
+Extract all names mentioned in this product spec.,1,1
+Extract all names mentioned in this resume.,1,1
+Extract all names mentioned in this survey data.,1,1
+Extract all names mentioned in our pricing page.,1,1
+What is the status field value in the Q3 sales report?,1,1
+What is the status field value in the attached invoice?,1,1
+What is the status field value in this support ticket?,1,1
+What is the status field value in this product spec?,1,1
+What is the status field value in this resume?,1,1
+What is the status field value in this survey data?,1,1
+What is the status field value in our pricing page?,1,1
+"Given the Q3 sales report, answer: what is the customer's name?",1,1
+"Given the attached invoice, answer: what is the customer's name?",1,1
+"Given this support ticket, answer: what is the customer's name?",1,1
+"Given this product spec, answer: what is the customer's name?",1,1
+"Given this resume, answer: what is the customer's name?",1,1
+"Given this survey data, answer: what is the customer's name?",1,1
+"Given our pricing page, answer: what is the customer's name?",1,1
+Pull out the phone number from the Q3 sales report.,1,1
+Pull out the phone number from the attached invoice.,1,1
+Pull out the phone number from this support ticket.,1,1
+Pull out the phone number from this product spec.,1,1
+Pull out the phone number from this resume.,1,1
+Pull out the phone number from this survey data.,1,1
+Pull out the phone number from our pricing page.,1,1
+Is the Q3 sales report marked as urgent? Answer yes or no.,1,1
+Is the attached invoice marked as urgent? Answer yes or no.,1,1
+Is this support ticket marked as urgent? Answer yes or no.,1,1
+Is this product spec marked as urgent? Answer yes or no.,1,1
+Is this resume marked as urgent? Answer yes or no.,1,1
+Is this survey data marked as urgent? Answer yes or no.,1,1
+Is our pricing page marked as urgent? Answer yes or no.,1,1
+"Given the Q3 sales report, what is the invoice number?",1,1
+"Given the attached invoice, what is the invoice number?",1,1
+"Given this support ticket, what is the invoice number?",1,1
+"Given this product spec, what is the invoice number?",1,1
+"Given this resume, what is the invoice number?",1,1
+"Given this survey data, what is the invoice number?",1,1
+"Given our pricing page, what is the invoice number?",1,1
+Translate the greeting line of the Q3 sales report to lowercase.,1,1
+Translate the greeting line of the attached invoice to lowercase.,1,1
+Translate the greeting line of this support ticket to lowercase.,1,1
+Translate the greeting line of this product spec to lowercase.,1,1
+Translate the greeting line of this resume to lowercase.,1,1
+Translate the greeting line of this survey data to lowercase.,1,1
+Summarize the Q3 sales report in three sentences.,2,1
+Summarize this customer email in three sentences.,2,0
+Summarize our onboarding docs in three sentences.,2,1
+Summarize this support ticket in three sentences.,2,0
+Summarize this product spec in three sentences.,2,1
+Summarize the API changelog in three sentences.,2,0
+Summarize the contract clause in three sentences.,2,1
+Summarize this survey data in three sentences.,2,0
+Summarize our pricing page in three sentences.,2,1
+Summarize this legal memo in three sentences.,2,0
+"Classify this customer email as urgent, normal, or low priority and explain briefly.",2,1
+"Classify the attached invoice as urgent, normal, or low priority and explain briefly.",2,0
+"Classify this support ticket as urgent, normal, or low priority and explain briefly.",2,1
+"Classify the meeting transcript as urgent, normal, or low priority and explain briefly.",2,0
+"Classify the API changelog as urgent, normal, or low priority and explain briefly.",2,1
+"Classify this resume as urgent, normal, or low priority and explain briefly.",2,0
+"Classify this survey data as urgent, normal, or low priority and explain briefly.",2,1
+"Classify the incident report as urgent, normal, or low priority and explain briefly.",2,0
+"Classify this legal memo as urgent, normal, or low priority and explain briefly.",2,1
+Summarize the key action items from the Q3 sales report.,2,0
+Summarize the key action items from the attached invoice.,2,1
+Summarize the key action items from our onboarding docs.,2,0
+Summarize the key action items from the meeting transcript.,2,1
+Summarize the key action items from this product spec.,2,0
+Summarize the key action items from this resume.,2,1
+Summarize the key action items from the contract clause.,2,0
+Summarize the key action items from the incident report.,2,1
+Summarize the key action items from our pricing page.,2,0
+"Categorize the Q3 sales report into one of: billing, technical, general.",2,1
+"Categorize this customer email into one of: billing, technical, general.",2,0
+"Categorize our onboarding docs into one of: billing, technical, general.",2,1
+"Categorize this support ticket into one of: billing, technical, general.",2,0
+"Categorize this product spec into one of: billing, technical, general.",2,1
+"Categorize the API changelog into one of: billing, technical, general.",2,0
+"Categorize the contract clause into one of: billing, technical, general.",2,1
+"Categorize this survey data into one of: billing, technical, general.",2,0
+"Categorize our pricing page into one of: billing, technical, general.",2,1
+"Categorize this legal memo into one of: billing, technical, general.",2,0
+"Given this customer email, list the three most important takeaways.",2,1
+"Given the attached invoice, list the three most important takeaways.",2,0
+"Given this support ticket, list the three most important takeaways.",2,1
+"Given the meeting transcript, list the three most important takeaways.",2,0
+"Given the API changelog, list the three most important takeaways.",2,1
+"Given this resume, list the three most important takeaways.",2,0
+"Given this survey data, list the three most important takeaways.",2,1
+"Given the incident report, list the three most important takeaways.",2,0
+"Given this legal memo, list the three most important takeaways.",2,1
+Summarize the Q3 sales report for a non-technical audience.,2,0
+Summarize the attached invoice for a non-technical audience.,2,1
+Summarize our onboarding docs for a non-technical audience.,2,0
+Summarize the meeting transcript for a non-technical audience.,2,1
+Summarize this product spec for a non-technical audience.,2,0
+Summarize this resume for a non-technical audience.,2,1
+Summarize the contract clause for a non-technical audience.,2,0
+Summarize the incident report for a non-technical audience.,2,1
+Summarize our pricing page for a non-technical audience.,2,0
+"What sentiment does the Q3 sales report express? Classify as positive, neutral, negative.",2,1
+"What sentiment does this customer email express? Classify as positive, neutral, negative.",2,0
+"What sentiment does our onboarding docs express? Classify as positive, neutral, negative.",2,1
+"What sentiment does this support ticket express? Classify as positive, neutral, negative.",2,0
+"What sentiment does this product spec express? Classify as positive, neutral, negative.",2,1
+"What sentiment does the API changelog express? Classify as positive, neutral, negative.",2,0
+"What sentiment does the contract clause express? Classify as positive, neutral, negative.",2,1
+"What sentiment does this survey data express? Classify as positive, neutral, negative.",2,0
+"What sentiment does our pricing page express? Classify as positive, neutral, negative.",2,1
+"What sentiment does this legal memo express? Classify as positive, neutral, negative.",2,0
+Break this customer email down into a structured table of key fields.,2,1
+Break the attached invoice down into a structured table of key fields.,2,0
+Break this support ticket down into a structured table of key fields.,2,1
+Break the meeting transcript down into a structured table of key fields.,2,0
+Break the API changelog down into a structured table of key fields.,2,1
+Break this resume down into a structured table of key fields.,2,0
+Break this survey data down into a structured table of key fields.,2,1
+Break the incident report down into a structured table of key fields.,2,0
+Break this legal memo down into a structured table of key fields.,2,1
+Summarize the Q3 sales report and flag any missing required fields.,2,0
+Summarize the attached invoice and flag any missing required fields.,2,1
+Summarize our onboarding docs and flag any missing required fields.,2,0
+Summarize the meeting transcript and flag any missing required fields.,2,1
+Summarize this product spec and flag any missing required fields.,2,0
+Summarize this resume and flag any missing required fields.,2,1
+Summarize the contract clause and flag any missing required fields.,2,0
+Summarize the incident report and flag any missing required fields.,2,1
+Summarize our pricing page and flag any missing required fields.,2,0
+"Given the Q3 sales report, identify the main request being made.",2,1
+"Given this customer email, identify the main request being made.",2,0
+"Given our onboarding docs, identify the main request being made.",2,1
+"Given this support ticket, identify the main request being made.",2,0
+"Given this product spec, identify the main request being made.",2,1
+"Given the API changelog, identify the main request being made.",2,0
+"Analyze the Q3 sales report and compare it against last quarter's numbers, explaining the trade-offs.",3,1
+"Analyze this customer email and compare it against last quarter's numbers, explaining the trade-offs.",3,0
+"Analyze our onboarding docs and compare it against last quarter's numbers, explaining the trade-offs.",3,1
+"Analyze this support ticket and compare it against last quarter's numbers, explaining the trade-offs.",3,0
+"Analyze this product spec and compare it against last quarter's numbers, explaining the trade-offs.",3,1
+"Analyze the API changelog and compare it against last quarter's numbers, explaining the trade-offs.",3,0
+"Analyze the contract clause and compare it against last quarter's numbers, explaining the trade-offs.",3,1
+"Analyze this survey data and compare it against last quarter's numbers, explaining the trade-offs.",3,0
+"Analyze our pricing page and compare it against last quarter's numbers, explaining the trade-offs.",3,1
+"Analyze this legal memo and compare it against last quarter's numbers, explaining the trade-offs.",3,0
+"Given this customer email, design a step-by-step remediation plan and justify each step.",3,1
+"Given the attached invoice, design a step-by-step remediation plan and justify each step.",3,0
+"Given this support ticket, design a step-by-step remediation plan and justify each step.",3,1
+"Given the meeting transcript, design a step-by-step remediation plan and justify each step.",3,0
+"Given the API changelog, design a step-by-step remediation plan and justify each step.",3,1
+"Given this resume, design a step-by-step remediation plan and justify each step.",3,0
+"Given this survey data, design a step-by-step remediation plan and justify each step.",3,1
+"Given the incident report, design a step-by-step remediation plan and justify each step.",3,0
+"Given this legal memo, design a step-by-step remediation plan and justify each step.",3,1
+Critique the Q3 sales report and propose three alternative approaches with pros and cons.,3,0
+Critique the attached invoice and propose three alternative approaches with pros and cons.,3,1
+Critique our onboarding docs and propose three alternative approaches with pros and cons.,3,0
+Critique the meeting transcript and propose three alternative approaches with pros and cons.,3,1
+Critique this product spec and propose three alternative approaches with pros and cons.,3,0
+Critique this resume and propose three alternative approaches with pros and cons.,3,1
+Critique the contract clause and propose three alternative approaches with pros and cons.,3,0
+Critique the incident report and propose three alternative approaches with pros and cons.,3,1
+Critique our pricing page and propose three alternative approaches with pros and cons.,3,0
+Write a short creative story inspired by the themes in the Q3 sales report.,3,1
+Write a short creative story inspired by the themes in this customer email.,3,0
+Write a short creative story inspired by the themes in our onboarding docs.,3,1
+Write a short creative story inspired by the themes in this support ticket.,3,0
+Write a short creative story inspired by the themes in this product spec.,3,1
+Write a short creative story inspired by the themes in the API changelog.,3,0
+Write a short creative story inspired by the themes in the contract clause.,3,1
+Write a short creative story inspired by the themes in this survey data.,3,0
+Write a short creative story inspired by the themes in our pricing page.,3,1
+Write a short creative story inspired by the themes in this legal memo.,3,0
+Evaluate this customer email against our compliance requirements and explain your reasoning.,3,1
+Evaluate the attached invoice against our compliance requirements and explain your reasoning.,3,0
+Evaluate this support ticket against our compliance requirements and explain your reasoning.,3,1
+Evaluate the meeting transcript against our compliance requirements and explain your reasoning.,3,0
+Evaluate the API changelog against our compliance requirements and explain your reasoning.,3,1
+Evaluate this resume against our compliance requirements and explain your reasoning.,3,0
+Evaluate this survey data against our compliance requirements and explain your reasoning.,3,1
+Evaluate the incident report against our compliance requirements and explain your reasoning.,3,0
+Evaluate this legal memo against our compliance requirements and explain your reasoning.,3,1
+"Given the Q3 sales report, brainstorm five innovative solutions and rank them by feasibility.",3,0
+"Given the attached invoice, brainstorm five innovative solutions and rank them by feasibility.",3,1
+"Given our onboarding docs, brainstorm five innovative solutions and rank them by feasibility.",3,0
+"Given the meeting transcript, brainstorm five innovative solutions and rank them by feasibility.",3,1
+"Given this product spec, brainstorm five innovative solutions and rank them by feasibility.",3,0
+"Given this resume, brainstorm five innovative solutions and rank them by feasibility.",3,1
+"Given the contract clause, brainstorm five innovative solutions and rank them by feasibility.",3,0
+"Given the incident report, brainstorm five innovative solutions and rank them by feasibility.",3,1
+"Given our pricing page, brainstorm five innovative solutions and rank them by feasibility.",3,0
+Analyze the Q3 sales report for logical inconsistencies and explain why each one matters.,3,1
+Analyze this customer email for logical inconsistencies and explain why each one matters.,3,0
+Analyze our onboarding docs for logical inconsistencies and explain why each one matters.,3,1
+Analyze this support ticket for logical inconsistencies and explain why each one matters.,3,0
+Analyze this product spec for logical inconsistencies and explain why each one matters.,3,1
+Analyze the API changelog for logical inconsistencies and explain why each one matters.,3,0
+Analyze the contract clause for logical inconsistencies and explain why each one matters.,3,1
+Analyze this survey data for logical inconsistencies and explain why each one matters.,3,0
+Analyze our pricing page for logical inconsistencies and explain why each one matters.,3,1
+Analyze this legal memo for logical inconsistencies and explain why each one matters.,3,0
+"Given this customer email, architect a system design that addresses the underlying problem.",3,1
+"Given the attached invoice, architect a system design that addresses the underlying problem.",3,0
+"Given this support ticket, architect a system design that addresses the underlying problem.",3,1
+"Given the meeting transcript, architect a system design that addresses the underlying problem.",3,0
+"Given the API changelog, architect a system design that addresses the underlying problem.",3,1
+"Given this resume, architect a system design that addresses the underlying problem.",3,0
+"Given this survey data, architect a system design that addresses the underlying problem.",3,1
+"Given the incident report, architect a system design that addresses the underlying problem.",3,0
+"Given this legal memo, architect a system design that addresses the underlying problem.",3,1
+"Debate both sides of the decision implied in the Q3 sales report, then give a recommendation.",3,0
+"Debate both sides of the decision implied in the attached invoice, then give a recommendation.",3,1
+"Debate both sides of the decision implied in our onboarding docs, then give a recommendation.",3,0
+"Debate both sides of the decision implied in the meeting transcript, then give a recommendation.",3,1
+"Debate both sides of the decision implied in this product spec, then give a recommendation.",3,0
+"Debate both sides of the decision implied in this resume, then give a recommendation.",3,1
+"Debate both sides of the decision implied in the contract clause, then give a recommendation.",3,0
+"Debate both sides of the decision implied in the incident report, then give a recommendation.",3,1
+"Debate both sides of the decision implied in our pricing page, then give a recommendation.",3,0
+"Given the Q3 sales report, synthesize a strategy document with must-have and nice-to-have requirements.",3,1
+"Given this customer email, synthesize a strategy document with must-have and nice-to-have requirements.",3,0
+"Given our onboarding docs, synthesize a strategy document with must-have and nice-to-have requirements.",3,1
+"Given this support ticket, synthesize a strategy document with must-have and nice-to-have requirements.",3,0
+"Given this product spec, synthesize a strategy document with must-have and nice-to-have requirements.",3,1
+"Given the API changelog, synthesize a strategy document with must-have and nice-to-have requirements.",3,0
